@@ -1,0 +1,5 @@
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 08\array\array\bin\Debug\array.exe.config
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 08\array\array\bin\Debug\array.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 08\array\array\bin\Debug\array.pdb
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 08\array\array\obj\Debug\array.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 08\array\array\obj\Debug\array.pdb

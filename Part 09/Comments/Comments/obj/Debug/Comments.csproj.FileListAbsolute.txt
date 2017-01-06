@@ -1,0 +1,5 @@
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 09\Comments\Comments\bin\Debug\Comments.exe.config
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 09\Comments\Comments\bin\Debug\Comments.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 09\Comments\Comments\bin\Debug\Comments.pdb
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 09\Comments\Comments\obj\Debug\Comments.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 09\Comments\Comments\obj\Debug\Comments.pdb

@@ -1,0 +1,5 @@
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 07\Conversion\Conversion\bin\Debug\Conversion.exe.config
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 07\Conversion\Conversion\bin\Debug\Conversion.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 07\Conversion\Conversion\bin\Debug\Conversion.pdb
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 07\Conversion\Conversion\obj\Debug\Conversion.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 07\Conversion\Conversion\obj\Debug\Conversion.pdb
