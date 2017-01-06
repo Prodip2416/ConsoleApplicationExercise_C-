@@ -1,0 +1,6 @@
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 19\class\class\bin\Debug\@class.exe.config
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 19\class\class\bin\Debug\@class.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 19\class\class\bin\Debug\@class.pdb
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 19\class\class\obj\Debug\class.csprojResolveAssemblyReference.cache
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 19\class\class\obj\Debug\@class.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 19\class\class\obj\Debug\@class.pdb
