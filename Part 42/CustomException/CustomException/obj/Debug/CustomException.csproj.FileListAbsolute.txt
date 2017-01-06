@@ -1,0 +1,5 @@
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 42\CustomException\CustomException\bin\Debug\CustomException.exe.config
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 42\CustomException\CustomException\bin\Debug\CustomException.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 42\CustomException\CustomException\bin\Debug\CustomException.pdb
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 42\CustomException\CustomException\obj\Debug\CustomException.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 42\CustomException\CustomException\obj\Debug\CustomException.pdb

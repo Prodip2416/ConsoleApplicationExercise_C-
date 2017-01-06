@@ -1,0 +1,6 @@
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 41\InnerException\InnerException\bin\Debug\InnerException.exe.config
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 41\InnerException\InnerException\bin\Debug\InnerException.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 41\InnerException\InnerException\bin\Debug\InnerException.pdb
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 41\InnerException\InnerException\obj\Debug\InnerException.csprojResolveAssemblyReference.cache
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 41\InnerException\InnerException\obj\Debug\InnerException.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 41\InnerException\InnerException\obj\Debug\InnerException.pdb

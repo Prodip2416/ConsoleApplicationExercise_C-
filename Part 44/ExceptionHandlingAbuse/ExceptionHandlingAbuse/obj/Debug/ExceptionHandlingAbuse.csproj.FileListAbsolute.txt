@@ -1,0 +1,5 @@
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 43\ExceptionHandlingAbuse\ExceptionHandlingAbuse\bin\Debug\ExceptionHandlingAbuse.exe.config
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 43\ExceptionHandlingAbuse\ExceptionHandlingAbuse\bin\Debug\ExceptionHandlingAbuse.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 43\ExceptionHandlingAbuse\ExceptionHandlingAbuse\bin\Debug\ExceptionHandlingAbuse.pdb
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 43\ExceptionHandlingAbuse\ExceptionHandlingAbuse\obj\Debug\ExceptionHandlingAbuse.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 43\ExceptionHandlingAbuse\ExceptionHandlingAbuse\obj\Debug\ExceptionHandlingAbuse.pdb
