@@ -1,0 +1,6 @@
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 15\forAndForeachLoop\forAndForeachLoop\bin\Debug\forAndForeachLoop.exe.config
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 15\forAndForeachLoop\forAndForeachLoop\bin\Debug\forAndForeachLoop.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 15\forAndForeachLoop\forAndForeachLoop\bin\Debug\forAndForeachLoop.pdb
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 15\forAndForeachLoop\forAndForeachLoop\obj\Debug\forAndForeachLoop.csprojResolveAssemblyReference.cache
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 15\forAndForeachLoop\forAndForeachLoop\obj\Debug\forAndForeachLoop.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 15\forAndForeachLoop\forAndForeachLoop\obj\Debug\forAndForeachLoop.pdb
