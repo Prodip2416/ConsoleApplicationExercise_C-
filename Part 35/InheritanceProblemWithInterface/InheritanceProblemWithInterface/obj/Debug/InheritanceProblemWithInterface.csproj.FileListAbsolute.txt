@@ -1,0 +1,6 @@
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 35\InheritanceProblemWithInterface\InheritanceProblemWithInterface\bin\Debug\InheritanceProblemWithInterface.exe.config
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 35\InheritanceProblemWithInterface\InheritanceProblemWithInterface\bin\Debug\InheritanceProblemWithInterface.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 35\InheritanceProblemWithInterface\InheritanceProblemWithInterface\bin\Debug\InheritanceProblemWithInterface.pdb
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 35\InheritanceProblemWithInterface\InheritanceProblemWithInterface\obj\Debug\InheritanceProblemWithInterface.csprojResolveAssemblyReference.cache
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 35\InheritanceProblemWithInterface\InheritanceProblemWithInterface\obj\Debug\InheritanceProblemWithInterface.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 35\InheritanceProblemWithInterface\InheritanceProblemWithInterface\obj\Debug\InheritanceProblemWithInterface.pdb

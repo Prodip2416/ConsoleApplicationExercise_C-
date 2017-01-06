@@ -1,0 +1,6 @@
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 33\abstructVSinterfaces\abstructVSinterfaces\bin\Debug\abstructVSinterfaces.exe.config
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 33\abstructVSinterfaces\abstructVSinterfaces\obj\Debug\abstructVSinterfaces.csprojResolveAssemblyReference.cache
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 33\abstructVSinterfaces\abstructVSinterfaces\bin\Debug\abstructVSinterfaces.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 33\abstructVSinterfaces\abstructVSinterfaces\bin\Debug\abstructVSinterfaces.pdb
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 33\abstructVSinterfaces\abstructVSinterfaces\obj\Debug\abstructVSinterfaces.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 33\abstructVSinterfaces\abstructVSinterfaces\obj\Debug\abstructVSinterfaces.pdb

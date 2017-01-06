@@ -1,0 +1,6 @@
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 31\ExplicityInterface\ExplicityInterface\bin\Debug\ExplicityInterface.exe.config
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 31\ExplicityInterface\ExplicityInterface\bin\Debug\ExplicityInterface.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 31\ExplicityInterface\ExplicityInterface\bin\Debug\ExplicityInterface.pdb
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 31\ExplicityInterface\ExplicityInterface\obj\Debug\ExplicityInterface.csprojResolveAssemblyReference.cache
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 31\ExplicityInterface\ExplicityInterface\obj\Debug\ExplicityInterface.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 31\ExplicityInterface\ExplicityInterface\obj\Debug\ExplicityInterface.pdb

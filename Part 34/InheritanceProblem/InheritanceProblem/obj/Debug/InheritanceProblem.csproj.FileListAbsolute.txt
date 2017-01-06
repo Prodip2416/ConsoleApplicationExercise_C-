@@ -1,0 +1,6 @@
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 34\InheritanceProblem\InheritanceProblem\bin\Debug\InheritanceProblem.exe.config
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 34\InheritanceProblem\InheritanceProblem\obj\Debug\InheritanceProblem.csprojResolveAssemblyReference.cache
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 34\InheritanceProblem\InheritanceProblem\bin\Debug\InheritanceProblem.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 34\InheritanceProblem\InheritanceProblem\bin\Debug\InheritanceProblem.pdb
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 34\InheritanceProblem\InheritanceProblem\obj\Debug\InheritanceProblem.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 34\InheritanceProblem\InheritanceProblem\obj\Debug\InheritanceProblem.pdb
