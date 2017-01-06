@@ -1,0 +1,6 @@
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 21\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 21\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 21\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 21\Inheritance\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 21\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 21\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
