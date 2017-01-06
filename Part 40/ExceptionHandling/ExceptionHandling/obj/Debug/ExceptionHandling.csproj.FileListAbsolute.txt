@@ -1,0 +1,6 @@
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 40\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 40\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 40\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 40\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csprojResolveAssemblyReference.cache
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 40\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 40\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

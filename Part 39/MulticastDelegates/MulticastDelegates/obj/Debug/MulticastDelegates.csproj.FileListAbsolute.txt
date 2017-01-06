@@ -1,0 +1,6 @@
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 39\MulticastDelegates\MulticastDelegates\bin\Debug\MulticastDelegates.exe.config
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 39\MulticastDelegates\MulticastDelegates\bin\Debug\MulticastDelegates.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 39\MulticastDelegates\MulticastDelegates\bin\Debug\MulticastDelegates.pdb
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 39\MulticastDelegates\MulticastDelegates\obj\Debug\MulticastDelegates.csprojResolveAssemblyReference.cache
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 39\MulticastDelegates\MulticastDelegates\obj\Debug\MulticastDelegates.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 39\MulticastDelegates\MulticastDelegates\obj\Debug\MulticastDelegates.pdb

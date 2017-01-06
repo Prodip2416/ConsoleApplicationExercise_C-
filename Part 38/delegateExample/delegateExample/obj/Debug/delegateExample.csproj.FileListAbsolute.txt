@@ -1,0 +1,5 @@
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 38\delegateExample\delegateExample\bin\Debug\delegateExample.exe.config
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 38\delegateExample\delegateExample\bin\Debug\delegateExample.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 38\delegateExample\delegateExample\bin\Debug\delegateExample.pdb
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 38\delegateExample\delegateExample\obj\Debug\delegateExample.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 38\delegateExample\delegateExample\obj\Debug\delegateExample.pdb
