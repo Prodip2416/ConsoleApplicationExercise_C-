@@ -1,0 +1,5 @@
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 05\CommonOperator\CommonOperator\bin\Debug\CommonOperator.exe.config
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 05\CommonOperator\CommonOperator\bin\Debug\CommonOperator.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 05\CommonOperator\CommonOperator\bin\Debug\CommonOperator.pdb
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 05\CommonOperator\CommonOperator\obj\Debug\CommonOperator.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 05\CommonOperator\CommonOperator\obj\Debug\CommonOperator.pdb

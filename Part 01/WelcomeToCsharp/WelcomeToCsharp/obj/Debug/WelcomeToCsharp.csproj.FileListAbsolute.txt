@@ -1,0 +1,6 @@
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Toturial 01\WelcomeToCsharp\WelcomeToCsharp\bin\Debug\WelcomeToCsharp.exe.config
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Toturial 01\WelcomeToCsharp\WelcomeToCsharp\bin\Debug\WelcomeToCsharp.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Toturial 01\WelcomeToCsharp\WelcomeToCsharp\bin\Debug\WelcomeToCsharp.pdb
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Toturial 01\WelcomeToCsharp\WelcomeToCsharp\obj\Debug\WelcomeToCsharp.csprojResolveAssemblyReference.cache
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Toturial 01\WelcomeToCsharp\WelcomeToCsharp\obj\Debug\WelcomeToCsharp.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Toturial 01\WelcomeToCsharp\WelcomeToCsharp\obj\Debug\WelcomeToCsharp.pdb

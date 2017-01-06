@@ -1,0 +1,5 @@
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 04\string\string\bin\Debug\@string.exe.config
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 04\string\string\bin\Debug\@string.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 04\string\string\bin\Debug\@string.pdb
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 04\string\string\obj\Debug\@string.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 04\string\string\obj\Debug\@string.pdb

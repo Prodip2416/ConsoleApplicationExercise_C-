@@ -1,0 +1,6 @@
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 02\ReadingAndWriting\ReadingAndWriting\bin\Debug\ReadingAndWriting.exe.config
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 02\ReadingAndWriting\ReadingAndWriting\bin\Debug\ReadingAndWriting.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 02\ReadingAndWriting\ReadingAndWriting\bin\Debug\ReadingAndWriting.pdb
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 02\ReadingAndWriting\ReadingAndWriting\obj\Debug\ReadingAndWriting.csprojResolveAssemblyReference.cache
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 02\ReadingAndWriting\ReadingAndWriting\obj\Debug\ReadingAndWriting.exe
+E:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 02\ReadingAndWriting\ReadingAndWriting\obj\Debug\ReadingAndWriting.pdb
