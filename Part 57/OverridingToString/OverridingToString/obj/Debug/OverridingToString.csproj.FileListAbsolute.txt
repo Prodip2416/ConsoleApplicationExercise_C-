@@ -1,0 +1,5 @@
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 57\OverridingToString\OverridingToString\bin\Debug\OverridingToString.exe.config
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 57\OverridingToString\OverridingToString\bin\Debug\OverridingToString.exe
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 57\OverridingToString\OverridingToString\bin\Debug\OverridingToString.pdb
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 57\OverridingToString\OverridingToString\obj\Debug\OverridingToString.exe
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 57\OverridingToString\OverridingToString\obj\Debug\OverridingToString.pdb
