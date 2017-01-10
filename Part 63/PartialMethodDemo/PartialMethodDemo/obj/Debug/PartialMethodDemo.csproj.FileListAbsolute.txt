@@ -1,0 +1,6 @@
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 63\PartialMethodDemo\PartialMethodDemo\bin\Debug\PartialMethodDemo.exe.config
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 63\PartialMethodDemo\PartialMethodDemo\bin\Debug\PartialMethodDemo.exe
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 63\PartialMethodDemo\PartialMethodDemo\bin\Debug\PartialMethodDemo.pdb
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 63\PartialMethodDemo\PartialMethodDemo\obj\Debug\PartialMethodDemo.csprojResolveAssemblyReference.cache
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 63\PartialMethodDemo\PartialMethodDemo\obj\Debug\PartialMethodDemo.exe
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 63\PartialMethodDemo\PartialMethodDemo\obj\Debug\PartialMethodDemo.pdb
