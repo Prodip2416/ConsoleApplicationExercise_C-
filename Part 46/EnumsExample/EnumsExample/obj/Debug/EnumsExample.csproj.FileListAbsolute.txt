@@ -1,0 +1,5 @@
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 46\EnumsExample\EnumsExample\bin\Debug\EnumsExample.exe.config
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 46\EnumsExample\EnumsExample\bin\Debug\EnumsExample.exe
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 46\EnumsExample\EnumsExample\bin\Debug\EnumsExample.pdb
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 46\EnumsExample\EnumsExample\obj\Debug\EnumsExample.exe
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 46\EnumsExample\EnumsExample\obj\Debug\EnumsExample.pdb

@@ -1,0 +1,6 @@
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 47\EnumsConcept\EnumsConcept\bin\Debug\EnumsConcept.exe.config
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 47\EnumsConcept\EnumsConcept\bin\Debug\EnumsConcept.exe
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 47\EnumsConcept\EnumsConcept\bin\Debug\EnumsConcept.pdb
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 47\EnumsConcept\EnumsConcept\obj\Debug\EnumsConcept.csprojResolveAssemblyReference.cache
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 47\EnumsConcept\EnumsConcept\obj\Debug\EnumsConcept.exe
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 47\EnumsConcept\EnumsConcept\obj\Debug\EnumsConcept.pdb
