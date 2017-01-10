@@ -1,0 +1,5 @@
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 59\ConvertToStringVsToString\ConvertToStringVsToString\bin\Debug\ConvertToStringVsToString.exe.config
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 59\ConvertToStringVsToString\ConvertToStringVsToString\bin\Debug\ConvertToStringVsToString.exe
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 59\ConvertToStringVsToString\ConvertToStringVsToString\bin\Debug\ConvertToStringVsToString.pdb
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 59\ConvertToStringVsToString\ConvertToStringVsToString\obj\Debug\ConvertToStringVsToString.exe
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 59\ConvertToStringVsToString\ConvertToStringVsToString\obj\Debug\ConvertToStringVsToString.pdb

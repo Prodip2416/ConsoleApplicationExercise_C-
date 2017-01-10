@@ -1,0 +1,5 @@
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 60\StringVsTextStringBuilder\StringVsTextStringBuilder\bin\Debug\StringVsTextStringBuilder.exe.config
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 60\StringVsTextStringBuilder\StringVsTextStringBuilder\bin\Debug\StringVsTextStringBuilder.exe
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 60\StringVsTextStringBuilder\StringVsTextStringBuilder\bin\Debug\StringVsTextStringBuilder.pdb
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 60\StringVsTextStringBuilder\StringVsTextStringBuilder\obj\Debug\StringVsTextStringBuilder.exe
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 60\StringVsTextStringBuilder\StringVsTextStringBuilder\obj\Debug\StringVsTextStringBuilder.pdb
