@@ -1,0 +1,1 @@
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 51\AccessModifiersForTypes\AccessModifiersForTypes\bin\Debug\AccessModifiersForTypes.exe.config
