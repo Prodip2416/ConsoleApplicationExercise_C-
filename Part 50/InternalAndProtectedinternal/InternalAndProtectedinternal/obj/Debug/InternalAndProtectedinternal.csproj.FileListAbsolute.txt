@@ -1,0 +1,6 @@
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 50\InternalAndProtectedinternal\InternalAndProtectedinternal\bin\Debug\InternalAndProtectedinternal.exe.config
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 50\InternalAndProtectedinternal\InternalAndProtectedinternal\bin\Debug\InternalAndProtectedinternal.exe
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 50\InternalAndProtectedinternal\InternalAndProtectedinternal\bin\Debug\InternalAndProtectedinternal.pdb
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 50\InternalAndProtectedinternal\InternalAndProtectedinternal\obj\Debug\InternalAndProtectedinternal.csprojResolveAssemblyReference.cache
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 50\InternalAndProtectedinternal\InternalAndProtectedinternal\obj\Debug\InternalAndProtectedinternal.exe
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 50\InternalAndProtectedinternal\InternalAndProtectedinternal\obj\Debug\InternalAndProtectedinternal.pdb

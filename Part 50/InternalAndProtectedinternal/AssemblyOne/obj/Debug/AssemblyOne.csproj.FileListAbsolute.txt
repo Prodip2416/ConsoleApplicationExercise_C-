@@ -1,0 +1,5 @@
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 50\InternalAndProtectedinternal\AssemblyOne\bin\Debug\AssemblyOne.dll
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 50\InternalAndProtectedinternal\AssemblyOne\bin\Debug\AssemblyOne.pdb
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 50\InternalAndProtectedinternal\AssemblyOne\obj\Debug\AssemblyOne.csprojResolveAssemblyReference.cache
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 50\InternalAndProtectedinternal\AssemblyOne\obj\Debug\AssemblyOne.dll
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 50\InternalAndProtectedinternal\AssemblyOne\obj\Debug\AssemblyOne.pdb
