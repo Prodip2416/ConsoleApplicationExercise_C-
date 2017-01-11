@@ -1,0 +1,6 @@
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 95\Deadlock\Deadlock\bin\Debug\Deadlock.exe.config
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 95\Deadlock\Deadlock\bin\Debug\Deadlock.exe
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 95\Deadlock\Deadlock\bin\Debug\Deadlock.pdb
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 95\Deadlock\Deadlock\obj\Debug\Deadlock.csprojResolveAssemblyReference.cache
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 95\Deadlock\Deadlock\obj\Debug\Deadlock.exe
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 95\Deadlock\Deadlock\obj\Debug\Deadlock.pdb

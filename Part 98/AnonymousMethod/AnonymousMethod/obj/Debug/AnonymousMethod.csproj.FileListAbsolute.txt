@@ -1,0 +1,6 @@
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 98\AnonymousMethod\AnonymousMethod\bin\Debug\AnonymousMethod.exe.config
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 98\AnonymousMethod\AnonymousMethod\bin\Debug\AnonymousMethod.exe
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 98\AnonymousMethod\AnonymousMethod\bin\Debug\AnonymousMethod.pdb
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 98\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.csprojResolveAssemblyReference.cache
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 98\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.exe
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 98\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.pdb
