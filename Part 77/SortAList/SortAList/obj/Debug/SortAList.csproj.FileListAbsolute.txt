@@ -1,0 +1,5 @@
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 77\SortAList\SortAList\bin\Debug\SortAList.exe.config
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 77\SortAList\SortAList\bin\Debug\SortAList.exe
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 77\SortAList\SortAList\bin\Debug\SortAList.pdb
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 77\SortAList\SortAList\obj\Debug\SortAList.exe
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 77\SortAList\SortAList\obj\Debug\SortAList.pdb
