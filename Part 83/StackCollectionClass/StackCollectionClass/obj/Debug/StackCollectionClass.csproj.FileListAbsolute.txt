@@ -1,0 +1,5 @@
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 83\StackCollectionClass\StackCollectionClass\bin\Debug\StackCollectionClass.exe.config
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 83\StackCollectionClass\StackCollectionClass\bin\Debug\StackCollectionClass.exe
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 83\StackCollectionClass\StackCollectionClass\bin\Debug\StackCollectionClass.pdb
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 83\StackCollectionClass\StackCollectionClass\obj\Debug\StackCollectionClass.exe
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 83\StackCollectionClass\StackCollectionClass\obj\Debug\StackCollectionClass.pdb

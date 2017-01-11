@@ -1,0 +1,6 @@
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 82\QueueCollectionClass\QueueCollectionClass\bin\Debug\QueueCollectionClass.exe.config
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 82\QueueCollectionClass\QueueCollectionClass\bin\Debug\QueueCollectionClass.exe
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 82\QueueCollectionClass\QueueCollectionClass\bin\Debug\QueueCollectionClass.pdb
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 82\QueueCollectionClass\QueueCollectionClass\obj\Debug\QueueCollectionClass.csprojResolveAssemblyReference.cache
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 82\QueueCollectionClass\QueueCollectionClass\obj\Debug\QueueCollectionClass.exe
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 82\QueueCollectionClass\QueueCollectionClass\obj\Debug\QueueCollectionClass.pdb
