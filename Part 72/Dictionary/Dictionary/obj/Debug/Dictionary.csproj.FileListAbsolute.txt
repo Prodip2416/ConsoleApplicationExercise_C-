@@ -1,0 +1,6 @@
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 72\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 72\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 72\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 72\Dictionary\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 72\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 72\Dictionary\Dictionary\obj\Debug\Dictionary.pdb

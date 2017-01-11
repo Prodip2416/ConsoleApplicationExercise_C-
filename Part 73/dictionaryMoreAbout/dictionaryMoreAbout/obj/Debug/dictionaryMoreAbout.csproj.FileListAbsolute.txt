@@ -1,0 +1,5 @@
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 73\dictionaryMoreAbout\dictionaryMoreAbout\bin\Debug\dictionaryMoreAbout.exe.config
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 73\dictionaryMoreAbout\dictionaryMoreAbout\bin\Debug\dictionaryMoreAbout.exe
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 73\dictionaryMoreAbout\dictionaryMoreAbout\bin\Debug\dictionaryMoreAbout.pdb
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 73\dictionaryMoreAbout\dictionaryMoreAbout\obj\Debug\dictionaryMoreAbout.exe
+F:\Programming With DOT NET\C# Console Application\PraGimTech Youtube\Part 73\dictionaryMoreAbout\dictionaryMoreAbout\obj\Debug\dictionaryMoreAbout.pdb
