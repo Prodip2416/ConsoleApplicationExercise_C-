@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingExampleeee", "ThreadingExampleeee\ThreadingExampleeee.csproj", "{67A72B40-BE47-49ED-9B94-597EE8A67469}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67A72B40-BE47-49ED-9B94-597EE8A67469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67A72B40-BE47-49ED-9B94-597EE8A67469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67A72B40-BE47-49ED-9B94-597EE8A67469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67A72B40-BE47-49ED-9B94-597EE8A67469}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
